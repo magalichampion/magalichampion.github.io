@@ -17,7 +17,11 @@ nav: true
 
 You can find below materials for some of the courses (mostly in french) I've taught the last few years:
 
-- Apprentissage en grande dimension : M2 Mathématiques, Modélisation, Apprentissage (MMA), Université de Paris (avec Andrés Almansa) <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">[slides]</a>
+- Méthodes d'analyse exploratoire : DU DataViz, Université Paris Cité <a href="{{site.baseurl}}/assets/pdf/AnalyseExploratoire.pdf">[slides]</a>
+
+- Introduction au data mining : DU Data Science, Université Paris Cité <a href="{{site.baseurl}}/assets/pdf/DataMining.pdf">[slides]</a>
+
+- Apprentissage en grande dimension : M2 Mathématiques, Modélisation, Apprentissage (MMA), Université Paris Cité (avec Andrés Almansa) <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">[slides]</a>
 
     - Rappels sur le modèle linéaire
     
@@ -45,9 +49,7 @@ You can find below materials for some of the courses (mostly in french) I've tau
     
     - Applications sous R <a href="{{site.baseurl}}/assets/pdf/TP1.pdf">[TP 1</a>, <a href="{{site.baseurl}}/assets/pdf/TP2.pdf">TP 2]</a>
 
-- Statistiques avec R : 1ères années FI (avec Pierre Latouche)
-<a href="{{site.baseurl}}/assets/pdf/coursR.pdf">[Polycopié]</a>
+- SAE Régression sur données réelles : 1ères années FI (avec O. Bouaziz)
 
-- Introduction au data mining : DU Data Science <a href="{{site.baseurl}}/assets/pdf/DataMining.pdf">[slides]</a>
-
-- Introduction au logiciel R : DU Big Data et DataViz
+- Statistiques avec R : 1ères années FI (avec P. Latouche)
+<a href="{{site.baseurl}}/assets/pdf/coursR.pdf">[Cours]</a>

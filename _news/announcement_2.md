@@ -1,8 +1,8 @@
 ---
 layout: post
 title: A long announcement with details
-date: 2022-01-03 16:11:00-0400
+date: 2023-01-09 16:11:00-0400
 inline: true
 ---
 
-I am a guest researcher at the Seminar for Statistics from ETH Zürich until end of July 2022. 🇨🇭
+I will give a lecture "Statistical learning of gene networks, from inference to clustering" at the JMBS French Fall School. 🍁
