@@ -22,7 +22,7 @@ I am an assistant professor in Statistics at the Data Science (SD) department of
 
 About me: before joining the MAP5, I spent one year as a postdoctoral researcher at the Stanford Center for Biomedical Informatics Research (BMIR). I completed my PhD in December 2014 from Université Toulouse III under the supervision of Sébastien Gadat, Christine Cierco-Ayrolles and Matthieu Vignes.
 
-For more info about me, please check my <a href="assets/pdf/CVMChampion2.pdf">CV (last update 07/2022)</a>.
+For more info about me, please check my <a href="assets/pdf/CV_MChampion.pdf">CV (last update 10/2023)</a>.
 
 ### Responsabilities
 
