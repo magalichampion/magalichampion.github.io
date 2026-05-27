@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2023-04-24 07:59:00-0400
+title: New publication in MDPI Mathematics
+date: 2025-14-11
 inline: true
 ---
 
-Our NIPD (Non-Invasive Prenatal Diagnosis) paper has been accepted for publication in the PLoS One journal. 🎉
+Our new article, **"All for One or One for All? A Comparative Study of Grouped Data in Mixed-Effects Additive Bayesian Networks"**, has been published in *Mathematics* as part of the Special Issue *Bayesian Networks: Parameter and Structure Learning with Their Real-World Applications for Decision Making*. 📊

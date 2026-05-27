@@ -1,8 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2023-01-09 16:11:00-0400
+date: 2023-04-24 07:59:00-0400
 inline: true
 ---
 
-I will give a lecture "Statistical learning of gene networks, from inference to clustering" at the JMBS French Fall School. 🍁
+Our NIPD (Non-Invasive Prenatal Diagnosis) paper has been accepted for publication in the PLoS One journal. 🎉
