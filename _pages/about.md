@@ -37,15 +37,14 @@ For more info about me, please check my <a href="assets/pdf/CV_MChampion.pdf">CV
 
 ### Research interests
 
-- Machine learning
-   - high-dimension
+- Statistical learning
+   - high-dimensional data
    - graphical models
    - penalized linear regressions
    - sparse methods
    - clustering
-   - statistical modelling
+   - statistical modeling
 - Computational biology
    - gene regulatory network inference
-   - applications to medical research 
    - multi-omics data integration
-
+   - applications to clinical and medical research 

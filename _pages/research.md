@@ -8,9 +8,9 @@ display_categories:
 horizontal: false
 ---
 
-Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université Paris Cité
+Research Fellow, Department of Mathematical Modeling and Machine Learning, University of Zurich
 
-#### Responsabilities
+#### Responsibilities
 
 - Associate editor of the [International Journal of Biostatistics](https://www.degruyter.com/journal/key/ijb/html)
 
@@ -18,36 +18,40 @@ Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université P
 #### Research interests
 
 - Statistical learning
-   - high-dimension
+   - high-dimensional data
    - graphical models
    - penalized linear regressions
    - sparse methods
    - clustering
-   - statistical modelling
+   - statistical modeling
 - Computational biology
    - gene regulatory network inference
-   - applications to medical research 
    - multi-omics data integration
+   - applications to clinical and medical research 
+   
    
 #### Current projects
 
-- In collaboration with Mathilde Pacault (Centre Hospitalier Régionale Universitaire, Brest), Camille Verebi (Hôpital Cochin, Paris) and Juliette Nectoux (Hôpital Cochin, Paris), we are working on Sequential Probability Ratio Tests with applications to Non-Invasive Prenatal Diagnosis (NIPD). 
+- 🕸️ Additive Bayesian Network (ABN) Inference:
+A joint collaborative initiative between the University of Zurich (UZH) and the Zurich University of Applied Sciences (ZHAW). This project focuses on structural inference within Additive Bayesian Networks (ABNs) to predict targeted nodes across complex biological systems. A core strength of this ABN architecture is its capacity to model highly heterogeneous, multi-distribution data (Poisson, Multinomial, Binomial, and Gaussian). We are building scalable simulation pipelines to optimize predictions, with future clinical applications aimed at evaluating structural risks of intracranial aneurysm.
 
-- In collaboration with Camille Champion (Université Paris Cité), I am also interested in regularized spectral clustering techniques for clustering large perturbed graphs. We are now working on applications of the l1-spectral clustering algorithm we developped on kidney cancer data.
+- 🦷 Obesity and Oral Microbiota: 
+In collaboration with INSERM (Vincent Blasco-Baque and Charlotte Thomas, InCOMM) and Camille Champion (Université Paris Cité), we are working on a collaborative project to model and decode the complex structural roles of bacterial interactions within saliva and periodontal environments to better understand the underlying mechanisms driving periodontal disease.
+
+- 🐱 Machine Learning Pipelines for FIP Diagnostics and Prognostics
+In collaboration with the clinical laboratory (Vetlabor) at the University of Zurich, this project focuses on developing a machine learning pipeline for Feline Infectious Peritonitis (FIP) diagnosis. We will then expand this work into prognostic modeling by analyzing clinical timelines. This longitudinal analysis aims to evaluate overall drug efficacy, determine a cat's individual chances of therapeutic success, and map treatment outcomes over time.
+
 
 #### Supervision of students
 
-On-going supervisions:
-
-- Bachelor thesis:
-    - Clements Kirchner (Bachelor of Mathematics, ETH Zürich) on "Clustering algorithms of gene networks using cancer data"
-    
 Past supervisions:
 
 - Semester thesis:
     - Julia Netzel (Master of Applied Mathematics, ETH Zürich) on "Handling Gender Bias in NLP Models" (4 months in 2022)
     
 - Bachelor thesis:
+    - Clements Kirchner (Bachelor of Mathematics, ETH Zürich) on "Clustering algorithms of gene networks using cancer data" (3 months in 2023)
+
     - Michael Vollenweider (Bachelor of Computational Science and Engineering, ETH Zürich) on "Benchmark of gene regulatory network inference methods" (5 months in 2022)
     
     - Riccardo Fumagalli (Bachelor of Mathematics, ETH Zürich) on "Identification of genes involved in the development of ER+ breast cancer" (3 months in 2022)
