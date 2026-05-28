@@ -77,7 +77,7 @@ multivariate regression: application to gene network recovery. NIPS Machine Lear
 <div style="text-align: right"> <h3> <span style="color: silver;"> Invited talks at seminars</span> </h3>  </div>
 
 <br/>
-- "Non-invasive prenatal diagnosis of single gene disorders": 05/12/24 at University of Zurich.
+- "Non-invasive prenatal diagnosis of single gene disorders": 12/05/24 at University of Zurich.
 
 - "l1-spectral clustering algorithm: a robust spectral clustering using Lasso regularization":
 
