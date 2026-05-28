@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New publication in MDPI Mathematics
-date: 2025-14-11
+date: 2025-11-14
 inline: true
 ---
 
