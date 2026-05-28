@@ -8,7 +8,7 @@ nav: true
 
 ### University of Zurich
 
-I am currently involved in the curriculum of the BSc in Applied Mathematics and Machine Learning (AMML) program at UZH, where I teach the following modules:
+I am currently involved in the curriculum of the BSc in Applied Mathematics and Machine Learning (AMML) program at UZH, where I am part of the teaching team for the following modules:
 
 - Good Computational Practice: BSc AMML, University of Zurich.
 - Computers and Computing: BSc AMML, University of Zurich.
