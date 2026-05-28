@@ -17,26 +17,30 @@ You can find below a list of talks I (or one of my co-authors) have given the la
 
 <br/>
 
-- M. Pacault, C. Verebi, M. Champion, L. Orhant, A. Perrier, C. Férec, T. Bienvenu, R. Daveau and <ins>J. Nectoux</ins>. Non-invasive prenatal diagnosis of monogenic diseases by enhanced relative haplotype
+- <ins>A.M. Spiri</ins>, A. Bouzon, J.M. Wenk, M.L. Meli, C.C. De Witt Curtius, J. M. Stachowski, A.K. Helfer-Hungerbuehler, B. Pineroli, S. Felten, S. Unterer,  S.M. Meunier, K. Zwicklbauer, K. Hartmann, M. Champion, M.P. Hofmann, R. Hofmann-Lehmann. Machine learning as a diagnostic aid for feline infectious peritonitis (FIP): A novel approach. European College of Veterinary Internal Medicine for Companion Animals (ECVIM-CA), Maastricht (2025). [Poster]
+
+- <ins>C. Thomas</ins>, K. Munsch, C. Champion, M. Champion, J. Sun, S. Le, S. Laurencin-Dalicieux, and V. Blasco-Baque. Obesity and Oral Microbiota: Toward a New Understanding of Bacterial Interactions in Periodontal Disease. EuroPerio, Vienna, Austria (2025).
+
+- M. Pacault, C. Verebi, M. Champion, L. Orhant, A. Perrier, C. Férec, T. Bienvenu, R. Daveau, and <ins>J. Nectoux</ins>. Non-invasive prenatal diagnosis of monogenic diseases by enhanced relative haplotype
 dosage analysis. European Human Genetics Conference (ESHG), Vienna, Austria (2022).
 
--  <ins> M. Champion</ins>, J. Chiquet, P. Neuvial, M. Elati, F. Radvanyi and E. Birmelé. Identification of deregulated transcription factors in specific bladder cancer subtypes. 12th International Conference on Bioinformatics and Computational Biology
+-  <ins> M. Champion</ins>, J. Chiquet, P. Neuvial, M. Elati, F. Radvanyi, and E. Birmelé. Identification of deregulated transcription factors in specific bladder cancer subtypes. 12th International Conference on Bioinformatics and Computational Biology
 (BICOB), San Francisco, United States (2020). _Canceled due to Coronavirus_.
     
-- M. Champion, K. Brennan, T. Croonenborghs, A. Gentles, N. Pochet and <ins> O. Gevaert</ins>. Module Analysis Captures Pancancer Genetically and Epigenetically Deregulated Cancer Driver Genes for Smoking and Antiviral Response. Intelligent Systems
+- M. Champion, K. Brennan, T. Croonenborghs, A. Gentles, N. Pochet, and <ins> O. Gevaert</ins>. Module Analysis Captures Pancancer Genetically and Epigenetically Deregulated Cancer Driver Genes for Smoking and Antiviral Response. Intelligent Systems
 for Molecular Biology (ISMB), Boston, United States (2018). 
     
-- <ins> M. Champion</ins>, J. Chiquet, P. Neuvial, M. Elati and E. Birmelé. Identification of deregulated transcription factors in specific subtypes of cancer. 16th International Conference on Bioinformatics (InCoB), 
-Shenzhen, China (2017).
+- <ins> M. Champion</ins>, J. Chiquet, P. Neuvial, M. Elati, and E. Birmelé. Identification of deregulated transcription factors in specific subtypes of cancer. 16th International Conference on Bioinformatics (InCoB), 
+Shenzhen, China (2017). [Poster]
 
 - <ins>M. Champion</ins> and O. Gevaert. Pancancer module analysis captures major oncogenic pathways and identifies master regulator of immune response. Keystone symposia on Molecular and Cellular Biology: The Cancer Genome, Banff, Canada (2016).
 
 - M. Champion and <ins>O. Gevaert</ins>. Multi-omics data fusion for cancer data.  14th Annual International Conference on Critical Assessment of Massive Data Analysis (CAMDA), Dublin, Ireland (2015). 
 
-- <ins>M. Champion</ins>, G. Chastaing, S. Gadat and C. Prieur. L2-Boosting on Generalized Hoeffding Decomposition for Dependent Variables. SIAM Conference on Uncertainty Quantification, Savannah, United States (2014).
+- <ins>M. Champion</ins>, G. Chastaing, S. Gadat, and C. Prieur. L2-Boosting on Generalized Hoeffding Decomposition for Dependent Variables. SIAM Conference on Uncertainty Quantification, Savannah, United States (2014).
 
-- <ins>M. Champion</ins>, J. Vandel, C. Cierco-Ayrolles, S. Gadat and M. Vignes. An L2-Boosting algorithm for sparse
-multivariate regression: application to gene network recovery. NIPS Machine Learning for Computational Biology Workshop, Sierra Nevada, Spain (2011).
+- <ins>M. Champion</ins>, J. Vandel, C. Cierco-Ayrolles, S. Gadat, and M. Vignes. An L2-Boosting algorithm for sparse
+multivariate regression: application to gene network recovery. NIPS Machine Learning for Computational Biology Workshop, Sierra Nevada, Spain (2011). [Poster]
 
 <br/>
  
@@ -73,6 +77,9 @@ multivariate regression: application to gene network recovery. NIPS Machine Lear
 <div style="text-align: right"> <h3> <span style="color: silver;"> Invited talks at seminars</span> </h3>  </div>
 
 <br/>
+- "Non-invasive prenatal diagnosis of single gene disorders":
+
+    - 05/12/24 at University of Zurich.
 
 - "l1-spectral clustering algorithm: a robust spectral clustering using Lasso regularization":
 
