@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GADAG
-description: A Genetic Algorithm for learning Directed Acyclic Graphs
+description: Official CRAN package for learning Directed Acyclic Graphs (DAGs) using a genetic algorithm
 img: /assets/img/croisement.png
 redirect: https://cran.r-project.org/web/packages/GADAG/index.html
 importance: 3
