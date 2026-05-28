@@ -2,20 +2,25 @@
 layout: teaching
 permalink: /teaching/
 title: Teaching
-description2: I teach 192h per year at IUT Paris-Rives de Seine, Université Paris Cité. You can reach me there at the following mailing address.
-profile:
-  align: right
-  image: UniversiteParis_IUTParis-RdS.jpg
-address2: Office B4-16
-address3: Département STID, IUT Paris-Rives de Seine
-address4: 143 avenue de Versailles, 75016 Paris 
+description2: I am involved in the development and teaching of the Bachelor's program in Applied Mathematics and Machine Learning (BSc AMML) at the Department of Mathematical Modeling and Machine Learning (DM3L), University of Zurich.
 nav: true
 ---
 
+### University of Zurich
 
+I am currently involved in the curriculum of the BSc in Applied Mathematics and Machine Learning (AMML) program at UZH, where I teach the following modules:
 
+- Good Computational Practice: BSc AMML, University of Zurich.
+- Computers and Computing: BSc AMML, University of Zurich.
 
-You can find below materials for some of the courses (mostly in french) I've taught the last few years:
+---
+
+### Past Course Materials
+
+Before joining the DM3L at UZH, I was teaching at IUT Paris-Rives de Seine, Université Paris Cité.
+Below are materials for some of the courses (mostly in french) I've taught the last few years:
+
+- Apprentissage de réseaux géniques, de l’inférence au clustering <a href="{{site.baseurl}}/assets/pdf/JMBS_MChampion.pdf">[slides]</a>: Ecole d'Automne JMBS pour chercheurs en Mathématiques Appliquées.
 
 - Méthodes d'analyse exploratoire : DU DataViz, Université Paris Cité <a href="{{site.baseurl}}/assets/pdf/AnalyseExploratoire.pdf">[slides]</a>
 
@@ -37,7 +42,7 @@ You can find below materials for some of the courses (mostly in french) I've tau
     
     - Tests paramétriques à un et deux échantillons <a href="{{site.baseurl}}/assets/pdf/Chap2.pdf">[Chapitre 2</a>, <a href="{{site.baseurl}}/assets/pdf/TD2.pdf">TD 2]</a>
     
-    - Test du Χ2 d'indépendance et d'homogénéité
+    - Test du $\chi_2$ d'indépendance et d'homogénéité
     
     - Tests de corrélation de Pearson et Spearman
 
