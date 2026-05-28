@@ -1,9 +1,9 @@
 ---
 layout: page
-title: l1spectral
-description: An l1-Version of the Spectral Clustering
-img: /assets/img/RealGraph.png
-redirect: https://cran.r-project.org/web/packages/l1spectral/index.html
+title: l1spectralclustering
+description: R scripts for l1-penalized spectral clustering on high-dimensional graphs.
+img: /assets/img/l1spectral.png
+category: R codes
 importance: 1
-category: R-package
+github: https://github.com/magalichampion/l1spectralclustering/
 ---
