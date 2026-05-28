@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-04-24 07:59:00-0400
+date: 2026-02-23
 inline: true
 ---
 
-Our NIPD (Non-Invasive Prenatal Diagnosis) paper has been accepted for publication in the PLoS One journal. 🎉
+I am happy to share that I am officially back to work after a short, busy diaper-break. 🍼✨
