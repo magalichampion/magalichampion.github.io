@@ -1,7 +1,7 @@
 ---
 layout: page
 title: mixed-ABN simulation study
-description: Simulation scripts for mixed-effects additive Bayesian networks
+description: R replication code for mixed-effects additive Bayesian networks simulations
 img: /assets/img/mABN.png
 redirect: https://github.com/furrer-lab/mabnsimstud
 importance: 2
