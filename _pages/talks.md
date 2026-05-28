@@ -80,6 +80,7 @@ multivariate regression: application to gene network recovery. NIPS Machine Lear
 - "Non-invasive prenatal diagnosis of single gene disorders":
 
     - 05/12/24 at University of Zurich.
+<br/>
 
 - "l1-spectral clustering algorithm: a robust spectral clustering using Lasso regularization":
 
@@ -88,6 +89,7 @@ multivariate regression: application to gene network recovery. NIPS Machine Lear
     - 02/11/22 webtalk for the Statistical learning seminar,
     
     - 01/08/21 at Université de Rennes.
+<br/>
 
 - "Sparse regression and optimization in high-dimensional framework for Gene Regulatory Network inference: application to cancer data": 
 
@@ -108,9 +110,11 @@ multivariate regression: application to gene network recovery. NIPS Machine Lear
     - 12/06/16 at Université Toulouse III, 
     
     - 11/24/16 at INRIA Nancy.
+<br/>
 
 - "Identification of deregulated transcription factors in bladder cancer": 11/27/19 at Université de Lille.    
- 
+ <br/>
+
 - "AMARETTO: a multi-omics data integration framework": 
 
     - 02/19/19 at Université de Bordeaux,
@@ -124,6 +128,7 @@ multivariate regression: application to gene network recovery. NIPS Machine Lear
     - 01/21/16 at Stanford University,
     
     - 09/25/15 webtalk for the Cancer Target Discovery Network.
+<br/>
 
 - "Sparse regression and optimization in high-dimensional framework: application to Gene Regulatory Netowrks": 
 
@@ -132,19 +137,23 @@ multivariate regression: application to gene network recovery. NIPS Machine Lear
     - 11/06/14 at Université de Nantes, 
     
     - 10/07/14 at Université Toulouse I.
+<br/>
 
 - "Statistical causal inference of Gene Regulatory Networks using l1 penalized likelihood": 03/10/15 at INRA Jouy-en-Josas.
-    
+  <br/>
+
 - "An hybrid convex/greedy algorithm for learning DAG": 
 
     - 06/16/2014 at Université de Strasbourg,
     
     - 03/20/14 at MIA Colloquim in Ecully.
+<br/>
 
 - "Convex optimization for learning Gene Regulatory Network": 
 
     - 09/12/13 for the NETBIO workgroup in Paris,
     
     - 06/14/13 at INRA Toulouse.
+<br/>
 
 - "Résultats sur les algorithmes de L2-Boosting pour les régressions sparses : cadre formel et extensions à la situation multivariée": 02/04/13 at INRA Montpellier. 
